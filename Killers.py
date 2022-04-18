@@ -72,8 +72,8 @@ logo='''
 
 \033[1;96m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-\033[1;91m☞ Auther     : B4_BALOCH_M4_MASTER
-\033[1;92m☞ WhatsApp   : 03232132362
+\033[1;91m☞ Auther     : Naveed_Noorani
+\033[1;92m☞ WhatsApp   : 03116072958
 \033[1;95m☞ YouTube    : https://youtube.com/channel/UCRnpWUOCz3Sb1RAX3GK4r0A
 
 \033[1;93m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
